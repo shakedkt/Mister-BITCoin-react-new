@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/precache-manifest.de09e534d2f19c44baed7873df1789d5.js"
+  "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/precache-manifest.77a0d93bd2f32793c8db06aeaf6f190d.js"
 );
 
 self.addEventListener('message', (event) => {
