@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "197af8c1537571ab787f86cccd7fe67d",
+    "revision": "30c4e76ebd4224ed43d38923f0f5ef62",
     "url": "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/index.html"
   },
   {
-    "revision": "1255bb8e5ca4318b7c44",
+    "revision": "03dbca1a4878febd7232",
     "url": "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/static/css/main.1bcac1ce.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/static/js/2.f48c70cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1255bb8e5ca4318b7c44",
-    "url": "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/static/js/main.194e4884.chunk.js"
+    "revision": "03dbca1a4878febd7232",
+    "url": "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/static/js/main.131251e6.chunk.js"
   },
   {
     "revision": "cfda41b0d82e1aa02f96",
