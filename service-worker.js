@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/precache-manifest.bb8979173f1b6efc09e34c3ca87dd8b8.js"
+  "/mister-bitcoin-new/precache-manifest.f46eb25c303da9ef6b8e57a950bd1d73.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%E2%80%8Bhttps://shakedkt.github.io/Mister-BITCoin-react-new/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/mister-bitcoin-new/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
